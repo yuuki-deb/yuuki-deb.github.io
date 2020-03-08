@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Index</title>
+</head>
+<body>
+  <pre>
+curl https://yuuki-deb.x86.men/public.key | apt-key add -
+echo "deb http://yuuki-deb.x86.men/ $(lsb_release -sc) main" > /etc/apt/sources.list.d/yuuki-deb.list
+  </pre>
+</body>
+</html>

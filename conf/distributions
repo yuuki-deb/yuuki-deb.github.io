@@ -1,0 +1,42 @@
+Origin: yuuki-deb.x86.men
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
+Codename: buster
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
+Codename: bullseye
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
+Codename: focal
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
