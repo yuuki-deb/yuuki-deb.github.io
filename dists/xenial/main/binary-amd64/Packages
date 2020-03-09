@@ -72,3 +72,40 @@ Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
  .
  This package contains runtime files.
 
+Package: x265-yuuki
+Version: 3.3.0-2+buster1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/x265-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 15920
+Depends: libc6 (>= 2.15), liblsmash2-yuuki (>= 2.16.1), libnuma1 (>= 2.0.11), libstdc++6 (>= 5.2)
+Homepage: https://github.com/msg7086/x265-Yuuki-Asuna
+Priority: optional
+Section: video
+Filename: pool/main/x/x265-yuuki/x265-yuuki_3.3.0-2+buster1_amd64.deb
+Size: 1202788
+SHA256: f1192c841df8ad5bed67d48e24d0a4d1865844bd44572c312412a85b1865e0aa
+SHA1: fc630b20955a4401519c6eb776829ff4642b55a7
+MD5sum: 272bfa413fe2bf4fd1d71d59338cd6c5
+Description: H.265/HEVC video stream encoder
+ x265 is a commandline encoder for creating H.265/High Efficiency Video Coding
+ (HEVC) video streams.
+ .
+ x265 supports the following features:
+  * full prediction and transform quad-tree recursion supported
+  * adaptive B-frame placement
+  * B-frames as references / arbitrary frame order
+  * CABAC (context-based adaptive binary arithmetic coding) entropy coding
+  * supports all Intra block types
+  * supports all Inter P partitions
+  * supports all Inter B partitions from 64x64 down to 8x4
+  * weighted prediction for P slices
+  * multiple reference frames
+  * scenecut detection
+  * parallel encoding on multiple CPUs
+ .
+ Additionally, x265-yuuki supports the following features:
+  * AviSynth+ input
+  * MP4 output from L-Smash
+  * GOP output
+
