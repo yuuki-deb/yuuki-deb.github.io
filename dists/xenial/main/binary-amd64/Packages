@@ -1,3 +1,25 @@
+Package: dualsynth-lsmashsource-yuuki
+Source: lsmashsource
+Version: 0.1036~20200322+buster1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmashsource-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 216
+Depends: libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libc6 (>= 2.14), libgcc1 (>= 1:3.0), liblsmash2-yuuki (>= 2.16.1), libstdc++6 (>= 5), libswresample3 (>= 7:4.0), libswscale5 (>= 7:4.0)
+Conflicts: dualsynth-lsmashsource, lsmashsource
+Provides: dualsynth-lsmashsource, lsmashsource
+Multi-Arch: same
+Homepage: https://github.com/HomeOfAviSynthPlusEvolution/L-SMASH-Works
+Priority: optional
+Section: libs
+Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki_0.1036~20200322+buster1_amd64.deb
+Size: 76692
+SHA256: ee977711fc686e5145a8a444fb6e917054a69515ebc5731e68e8c9df11af891c
+SHA1: 849e0ba7f412a646a0b84f1255fdd4ee1c185f73
+MD5sum: ea6386765a41f6ae34834d5420b35577
+Description: Plugin for AviSynthPlus and VapourSynth: lsmashsource
+ A source plugin for AviSynth+ and VapourSynth.
+
 Package: l-smash-yuuki
 Source: l-smash
 Version: 2.16.1-1~20190805+buster1
