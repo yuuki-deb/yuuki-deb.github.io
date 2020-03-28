@@ -114,6 +114,130 @@ Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
  .
  This package contains runtime files.
 
+Package: libzimg-dev
+Source: zimg-dmo
+Version: 1:2.9.3-dmo1
+Architecture: amd64
+Bugs: mailto:marillat@deb-multimedia.org
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Installed-Size: 1755
+Depends: libzimg2 (= 1:2.9.3-dmo1)
+Multi-Arch: same
+Homepage: https://github.com/sekrit-twc/zimg
+Priority: optional
+Section: libdevel
+Filename: pool/main/z/zimg-dmo/libzimg-dev_2.9.3-dmo1_amd64.deb
+Size: 301036
+SHA256: 0e13670e1e92df69831554072bac7e2b3046fe01920a34120efb98e9bc1cb16c
+SHA1: d76d70163bf834d235adc6c9aa8974333109fff6
+MD5sum: 546aae8cc6bc51b3c91fb012b27e3e06
+Description: development files for the zimg library
+ The "z" library implements the commonly required image processing basics of
+ scaling, colorspace conversion, and depth conversion. A simple API enables
+ conversion between any supported formats to operate with minimal knowledge
+ from the programmer. All library routines were designed from the ground-up
+ with flexibility, thread-safety, and correctness as first priorities.
+ Allocation, buffering, and I/O are cleanly separated from processing,
+ allowing the programmer to adapt "z" to many scenarios.
+
+Package: libzimg2
+Source: zimg-dmo
+Version: 1:2.9.3-dmo1
+Architecture: amd64
+Bugs: mailto:marillat@deb-multimedia.org
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Installed-Size: 764
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Multi-Arch: same
+Homepage: https://github.com/sekrit-twc/zimg
+Priority: optional
+Section: libs
+Filename: pool/main/z/zimg-dmo/libzimg2_2.9.3-dmo1_amd64.deb
+Size: 219348
+SHA256: 18b621eeb750b0a7cdb8077c1fd011be4ff7e1953dde99169765c252ac56dad6
+SHA1: 30942486a2fd4d5b97c3257416df933827c25d4e
+MD5sum: 7dfbecf8c285a8b00f1dc16cce43cb68
+Description: scaling, colorspace conversion and dithering library
+ The "z" library implements the commonly required image processing basics of
+ scaling, colorspace conversion, and depth conversion. A simple API enables
+ conversion between any supported formats to operate with minimal knowledge
+ from the programmer. All library routines were designed from the ground-up
+ with flexibility, thread-safety, and correctness as first priorities.
+ Allocation, buffering, and I/O are cleanly separated from processing,
+ allowing the programmer to adapt "z" to many scenarios.
+
+Package: vapoursynth-yuuki
+Version: 49-dmo1+buster1
+Architecture: amd64
+Bugs: mailto:marillat@deb-multimedia.org
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Installed-Size: 2472
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libpython3.7 (>= 3.7.0), libstdc++6 (>= 6), libtesseract4, libzimg2 (>= 1:2.9.3), python3 (<< 3.8), python3 (>= 3.7~)
+Conflicts: libvapoursynth, libvapoursynth-script0, vapoursynth, vapoursynth-python3, vspipe (<= 45.1-dmo2)
+Replaces: libvapoursynth, libvapoursynth-script0, libvapoursynth3, vapoursynth-dev (<< 38-dmo4), vapoursynth-python3, vspipe (<= 45.1-dmo2)
+Provides: vapoursynth
+Homepage: http://www.vapoursynth.com/
+Priority: optional
+Section: libs
+Filename: pool/main/v/vapoursynth-yuuki/vapoursynth-yuuki_49-dmo1+buster1_amd64.deb
+Size: 730468
+SHA256: 2c1c1f9abb207001331d8986323143df466c91888638f7a2061be8c77b160965
+SHA1: c27724bbbd3f8ed66ce935662ff21ba3162dcdd2
+MD5sum: 44fa4fa11aa4587d7a95159909482a8b
+Description: frameserver for the 21st century
+ It's an application for video manipulation. Or a plugin. Or a library.
+ It's hard to tell because it has a core library written in C++ and a Python
+ module to allow video scripts to be created. It came to be when I started
+ thinking about alternative designs for Avisynth and most of it was written
+ over a 3 month period. The software has been heavily inspired by Avisynth
+ and aims to be a 21st century rewrite, taking advantage of the advancements
+ computers have made since the late 90s. The main features compared to
+ Avisynth are:
+ .
+  * Multithreaded - Frame level multithreading
+  * Generalized Colorspaces - New Colorspaces can be specified at runtime
+  * Per Frame Properties - Additional metadata can be attached to frames
+  * Python Based - The scripting part is implemented as a Python module so
+    you don't have to learn a special language
+  * Support for video with format changes - Some video just can't stick to
+    one format or frame size VapourSynth can handle any kind of change
+
+Package: vapoursynth-yuuki-dev
+Source: vapoursynth-yuuki
+Version: 49-dmo1+buster1
+Architecture: amd64
+Bugs: mailto:marillat@deb-multimedia.org
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Installed-Size: 2222
+Depends: vapoursynth-yuuki (= 49-dmo1+buster1), libzimg-dev, libpython3-dev, pkg-config
+Conflicts: vapoursynth-dev
+Provides: vapoursynth-dev
+Homepage: http://www.vapoursynth.com/
+Priority: optional
+Section: libdevel
+Filename: pool/main/v/vapoursynth-yuuki/vapoursynth-yuuki-dev_49-dmo1+buster1_amd64.deb
+Size: 439400
+SHA256: 03936f3784142a7125f792873e0dc17607c56c783ef922af811bbd16d7a332b7
+SHA1: 4c04c81b368fbe2adb42a835f83dff244d3ac816
+MD5sum: a15583fd550a087bb691de4f2eddf66c
+Description: frameserver for the 21st century - development files
+ It's an application for video manipulation. Or a plugin. Or a library.
+ It's hard to tell because it has a core library written in C++ and a Python
+ module to allow video scripts to be created. It came to be when I started
+ thinking about alternative designs for Avisynth and most of it was written
+ over a 3 month period. The software has been heavily inspired by Avisynth
+ and aims to be a 21st century rewrite, taking advantage of the advancements
+ computers have made since the late 90s. The main features compared to
+ Avisynth are:
+ .
+  * Multithreaded - Frame level multithreading
+  * Generalized Colorspaces - New Colorspaces can be specified at runtime
+  * Per Frame Properties - Additional metadata can be attached to frames
+  * Python Based - The scripting part is implemented as a Python module so
+    you don't have to learn a special language
+  * Support for video with format changes - Some video just can't stick to
+    one format or frame size VapourSynth can handle any kind of change
+
 Package: x265-asuna
 Version: 3.2.1-1+buster1
 Architecture: amd64
