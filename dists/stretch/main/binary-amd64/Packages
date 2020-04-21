@@ -95,20 +95,20 @@ Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
  This package contains runtime files.
 
 Package: x265-asuna
-Version: 3.2.1-1+buster1
+Version: 3.2.1+7+29+buster1
 Architecture: amd64
 Bugs: https://github.com/yuuki-deb/x265-yuuki/issues
 Maintainer: Xinyue Lu <i@7086.in>
-Installed-Size: 15864
+Installed-Size: 15868
 Depends: libc6 (>= 2.15), liblsmash2-yuuki (>= 2.16.1), libnuma1 (>= 2.0.11), libstdc++6 (>= 5.2)
 Homepage: https://github.com/msg7086/x265-Yuuki-Asuna
 Priority: optional
 Section: video
-Filename: pool/main/x/x265-asuna/x265-asuna_3.2.1-1+buster1_amd64.deb
-Size: 1189104
-SHA256: f11a93ec9dc0412a9e3ae55c98cb7e4a3a0b3c3b3adb65bae3ae67778517f01d
-SHA1: d399a4167f5d7ebe88ec73f4e7e6d53e94e0f911
-MD5sum: 895c916680a649aab46d9e2e93d41fc7
+Filename: pool/main/x/x265-asuna/x265-asuna_3.2.1+7+29+buster1_amd64.deb
+Size: 1190116
+SHA256: fecf8b3e66cc0dbe30a4e28fc18fe82e9c0b2cea5cc575b4939f094dd8c21510
+SHA1: 9d931c666a7937826259616b1e4152b534590389
+MD5sum: dc76c67284ce21cf7b0b92c96c893e18
 Description: H.265/HEVC video stream encoder
  x265 is a commandline encoder for creating H.265/High Efficiency Video Coding
  (HEVC) video streams.
