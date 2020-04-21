@@ -3,26 +3,26 @@ Hash: SHA256
 
 Origin: yuuki-deb.x86.men
 Codename: focal
-Date: Sat, 04 Apr 2020 22:18:28 UTC
+Date: Tue, 21 Apr 2020 06:43:38 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
 MD5Sum:
- 3a76c3357b4f2de87607013ebe39c6ee 10314 main/binary-amd64/Packages
- 4f560c70b2cac3d2fff761a8b6e7699e 3021 main/binary-amd64/Packages.gz
+ 5d95833a8a60e20e0a2b1dc976088fd6 10314 main/binary-amd64/Packages
+ 9079e218a1f83acd6e0cbc9d03b6b641 3022 main/binary-amd64/Packages.gz
  21bdbe6d82e9ea233b9e8aca96d70d14 118 main/binary-amd64/Release
 SHA1:
- f3cd2768b0427862c9062d870565bfb9868df6d0 10314 main/binary-amd64/Packages
- e920cf7bf5e79408c8b7ff0888b0c4b012fe7958 3021 main/binary-amd64/Packages.gz
+ 250ab8bb5fb0b1c3bbf0ee2f7122d1975f8a62fd 10314 main/binary-amd64/Packages
+ e0492dbb5041cadec0540b63abe111cd9abbc809 3022 main/binary-amd64/Packages.gz
  fd489733ca3a04315c6778a98553992a07b8322f 118 main/binary-amd64/Release
 SHA256:
- e2b1cfef87cc8d1759014db3bf337f90f9abf8038cbc1f268c1f5434a37db16b 10314 main/binary-amd64/Packages
- 6af668390833c77794343edbc845af5a81ce433ad6b604bc41fcb46ca34463c1 3021 main/binary-amd64/Packages.gz
+ 082414b1623254dca498513d525c1213eb30ba99add14bdb7d8d5cebd8edee48 10314 main/binary-amd64/Packages
+ f2057249b240ae969d33932c314a9f891dd57d810aa70f8d5c0bd7382cf40853 3022 main/binary-amd64/Packages.gz
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXokHtAAKCRAfMxUzq83u
-o5tGAQD/9xOptusFVaCmwmmq9YfjOtBfx/Sz+WOkGRDFThB9AAEAwyvXbFMITrZw
-myjRsKBUW/wb7IZv26yQDRNPOCzY2Qg=
-=b2PH
+iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXp6WGgAKCRAfMxUzq83u
+o51yAQCwRi+ojcPOs+6yVfB4uOVL/m/KuG8lk2yvSRvS8T0ROQEAoa2sAt8bgl+Z
+bm39EhVvEfwUo2JpX1segTt+jvhunAM=
+=yjQq
 -----END PGP SIGNATURE-----

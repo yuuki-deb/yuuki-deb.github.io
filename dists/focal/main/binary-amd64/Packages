@@ -228,7 +228,7 @@ Description: H.265/HEVC video stream encoder
  x265-asuna is one minor version behind x265-yuuki.
 
 Package: x265-yuuki
-Version: 3.3.0+3+28+buster1
+Version: 3.3.0+3+29+buster1
 Architecture: amd64
 Bugs: https://github.com/yuuki-deb/x265-yuuki/issues
 Maintainer: Xinyue Lu <i@7086.in>
@@ -237,11 +237,11 @@ Depends: libc6 (>= 2.15), liblsmash2-yuuki (>= 2.16.1), libnuma1 (>= 2.0.11), li
 Homepage: https://github.com/msg7086/x265-Yuuki-Asuna
 Priority: optional
 Section: video
-Filename: pool/main/x/x265-yuuki/x265-yuuki_3.3.0+3+28+buster1_amd64.deb
-Size: 1202824
-SHA256: b72b20327bd8ef8a386558ee0cb01b9668708e6626a9b249627e82ce9e92cadd
-SHA1: 4d94ca0c028968722cd110d309fc614ee3ed10d3
-MD5sum: 0440792c909bbd922e14378508c7e2e3
+Filename: pool/main/x/x265-yuuki/x265-yuuki_3.3.0+3+29+buster1_amd64.deb
+Size: 1202656
+SHA256: bfbbd29646884b7b84d903ad2df34816fc6ae08a995fe06f31ff0bcfd474b951
+SHA1: d057fc43fa53e2b3ec1c41dd23a1c3d7d0b4445c
+MD5sum: f16ad04d1254742d1e8fc87e259195fe
 Description: H.265/HEVC video stream encoder
  x265 is a commandline encoder for creating H.265/High Efficiency Video Coding
  (HEVC) video streams.
