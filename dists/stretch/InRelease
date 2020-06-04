@@ -3,26 +3,26 @@ Hash: SHA256
 
 Origin: yuuki-deb.x86.men
 Codename: stretch
-Date: Tue, 21 Apr 2020 07:06:00 UTC
+Date: Thu, 04 Jun 2020 05:55:21 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
 MD5Sum:
- 536f627d44e297fcd99e26f6dd5ea2b8 6364 main/binary-amd64/Packages
- fc02300b9d3fe1cb965c31dfc66da9e3 1988 main/binary-amd64/Packages.gz
+ 415b86359875142ddb4a14b95142ee26 6364 main/binary-amd64/Packages
+ 4672862bd344746252a47b99823a40a5 1981 main/binary-amd64/Packages.gz
  21bdbe6d82e9ea233b9e8aca96d70d14 118 main/binary-amd64/Release
 SHA1:
- a9c4b30a54e4f83aa217b6b960c216f25849f476 6364 main/binary-amd64/Packages
- 39a3701601af38a995004e969e95f6e39f68b8ed 1988 main/binary-amd64/Packages.gz
+ 1f378111c0915bc947e90ff6f0be4b13a5f77bf0 6364 main/binary-amd64/Packages
+ 7df1b87c9f8362860ff0fc340a625483eed0f712 1981 main/binary-amd64/Packages.gz
  fd489733ca3a04315c6778a98553992a07b8322f 118 main/binary-amd64/Release
 SHA256:
- 34903ec78636eda79b9bc44cf84862d95393ea2ef6307752c7534466ecf029d1 6364 main/binary-amd64/Packages
- c0e8a5f403539fb5c2272d8246bb6e405b601d2311b60c357eed24aa3467019f 1988 main/binary-amd64/Packages.gz
+ 0847599a8310e1b6d75d81a9e4df0eb6e5e1facdb9619e0b059dbe26816905ec 6364 main/binary-amd64/Packages
+ af4badebbc2bbdb5acba330548c29d82ff648f8df02918a5f1df75c695b6ef30 1981 main/binary-amd64/Packages.gz
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXp6bWwAKCRAfMxUzq83u
-o2JPAQD5iUEhMUcwwadbL40LvVNg1iCsdPZaNjIk4bUJgI1ohAEAv345Pgw7PFun
-EeVZ7zUHdkohRzIIzfzh7emYQtyyMQo=
-=baHE
+iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXtiMygAKCRAfMxUzq83u
+o5NJAQDCrIHRB2hwpXZS+KLgh++pRdEIAGixM/PkuBNA6H3d5AEA6ME8xWFqaEJK
+H+uCfpJk/Xuqq+HKQcK/XiLeA8er3Q8=
+=yyxz
 -----END PGP SIGNATURE-----

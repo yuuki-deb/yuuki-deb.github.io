@@ -3,26 +3,26 @@ Hash: SHA256
 
 Origin: yuuki-deb.x86.men
 Codename: bullseye
-Date: Tue, 21 Apr 2020 07:06:04 UTC
+Date: Thu, 04 Jun 2020 05:55:23 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
 MD5Sum:
- 8d318234130ddbbdc6942842ca238a8c 14100 main/binary-amd64/Packages
- 02b9730aba049cf86bddf1af5c153653 3983 main/binary-amd64/Packages.gz
+ 631cc6a8d381ea7af6c3eee1a8ab9899 14100 main/binary-amd64/Packages
+ bedd74c1dee8cdb93f122e7a09fa5359 3982 main/binary-amd64/Packages.gz
  21bdbe6d82e9ea233b9e8aca96d70d14 118 main/binary-amd64/Release
 SHA1:
- b2ab469be29c4da2b0c4670666fc4533e402b883 14100 main/binary-amd64/Packages
- a9559a1d678c72f8f913c29dd3631e6082ac597c 3983 main/binary-amd64/Packages.gz
+ 0d416e26d2f83d603337f329dc2dd32d1ccdf5d8 14100 main/binary-amd64/Packages
+ 270fdc29fc40f9c39f223a65b8c6435c397b84eb 3982 main/binary-amd64/Packages.gz
  fd489733ca3a04315c6778a98553992a07b8322f 118 main/binary-amd64/Release
 SHA256:
- 384c5f385abdef9a3af29b4112b13b8b996f9bf9a7b97eb1b893ea9c951db086 14100 main/binary-amd64/Packages
- 91a455f4cea13271aea689c945c5d94bfdf8189c1d375b30eb4b92f4dbeb504c 3983 main/binary-amd64/Packages.gz
+ a7d50d71cbd77bb737ea127debf2d03c4c767c4d973f6355fb7f34ac497467ab 14100 main/binary-amd64/Packages
+ a3d7e23a2213b01c6b60e6ffc6b4ba3142c4a1f5bf76f66305fc8ded5594ffc5 3982 main/binary-amd64/Packages.gz
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXp6bXAAKCRAfMxUzq83u
-o6fjAP9SHsIoeKLLeCW3xGpeVXgXuWx6JvWdfpqzqEX7P6N4nAD8CqcFQN+8XbIO
-fW0j4gEPuFyVnnPBRr/pyKDOzxgz4Qs=
-=DDGE
+iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCXtiMywAKCRAfMxUzq83u
+oxwdAP9P2Y3baMz87STFKaezDqWkh9dqMItoBhzNYWPqgLqvCAD8Chheqn/zVeNX
+ApVZ7Y4ISv3+EqDEyYYYnzj/i4w3dgE=
+=Lpvo
 -----END PGP SIGNATURE-----
