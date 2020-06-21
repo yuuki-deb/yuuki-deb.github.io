@@ -62,6 +62,28 @@ MD5sum: ea6386765a41f6ae34834d5420b35577
 Description: Plugin for AviSynthPlus and VapourSynth: lsmashsource
  A source plugin for AviSynth+ and VapourSynth.
 
+Package: dualsynth-neo-fft3d-yuuki
+Source: neo-fft3d
+Version: 0.09+buster1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/dualsynth-plugins-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 339
+Depends: libc6 (>= 2.16), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), libfftw3-single3
+Conflicts: dualsynth-neo-fft3d, neo-fft3d
+Provides: dualsynth-neo-fft3d, neo-fft3d
+Multi-Arch: same
+Homepage: https://github.com/HomeOfAviSynthPlusEvolution/neo_FFT3D
+Priority: optional
+Section: libs
+Filename: pool/main/n/neo-fft3d/dualsynth-neo-fft3d-yuuki_0.09+buster1_amd64.deb
+Size: 101600
+SHA256: 2eb1dd0fac717f52345439cb90e1d908f766c3e54fdd0b43e16fbeabde44c991
+SHA1: 138f876ff5fd64844f92f39d8f2f341054a78346
+MD5sum: 29eba325236d64e615cd735e033040ba
+Description: Plugin for AviSynthPlus and VapourSynth: neo-fft3d
+ FFT3D is a 3D Frequency Domain filter - strong denoiser and moderate sharpener.
+
 Package: l-smash-yuuki
 Source: l-smash
 Version: 2.16.1-1~20190805+buster1
