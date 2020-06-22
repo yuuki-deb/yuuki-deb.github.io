@@ -84,6 +84,28 @@ MD5sum: 29eba325236d64e615cd735e033040ba
 Description: Plugin for AviSynthPlus and VapourSynth: neo-fft3d
  FFT3D is a 3D Frequency Domain filter - strong denoiser and moderate sharpener.
 
+Package: dualsynth-neo-vague-denoiser-yuuki
+Source: neo-vague-denoiser
+Version: 0.02+buster1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/dualsynth-plugins-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 139
+Depends: libc6 (>= 2.16), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Conflicts: dualsynth-neo-vague-denoiser, neo-vague-denoiser
+Provides: dualsynth-neo-vague-denoiser, neo-vague-denoiser
+Multi-Arch: same
+Homepage: https://github.com/HomeOfAviSynthPlusEvolution/neo_Vague_Denoiser
+Priority: optional
+Section: libs
+Filename: pool/main/n/neo-vague-denoiser/dualsynth-neo-vague-denoiser-yuuki_0.02+buster1_amd64.deb
+Size: 43608
+SHA256: be32c183872ec79355b975d1d087fe17c3740930415b842eb3ba81e3769f41a1
+SHA1: ca87e129b192664f3d917124d05758b532098f08
+MD5sum: 00a78ce3f899f4c506e9d2159ab514ee
+Description: Plugin for AviSynthPlus and VapourSynth: neo-vague-denoiser
+ Vague Denoiser is a wavelet based denoiser.
+
 Package: l-smash-yuuki
 Source: l-smash
 Version: 2.16.1-1~20190805+buster1
