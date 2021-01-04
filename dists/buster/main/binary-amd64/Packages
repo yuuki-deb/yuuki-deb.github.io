@@ -64,9 +64,9 @@ Description: Plugin for AviSynthPlus and VapourSynth: lsmashsource
 
 Package: dualsynth-neo-fft3d-yuuki
 Source: neo-fft3d
-Version: 0.09+buster1
+Version: 0.10+buster1
 Architecture: amd64
-Bugs: https://github.com/yuuki-deb/dualsynth-plugins-yuuki/issues
+Bugs: https://github.com/HomeOfAviSynthPlusEvolution/neo_FFT3D/issues
 Maintainer: Xinyue Lu <i@7086.in>
 Installed-Size: 339
 Depends: libc6 (>= 2.16), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), libfftw3-single3
@@ -76,11 +76,11 @@ Multi-Arch: same
 Homepage: https://github.com/HomeOfAviSynthPlusEvolution/neo_FFT3D
 Priority: optional
 Section: libs
-Filename: pool/main/n/neo-fft3d/dualsynth-neo-fft3d-yuuki_0.09+buster1_amd64.deb
-Size: 101600
-SHA256: 2eb1dd0fac717f52345439cb90e1d908f766c3e54fdd0b43e16fbeabde44c991
-SHA1: 138f876ff5fd64844f92f39d8f2f341054a78346
-MD5sum: 29eba325236d64e615cd735e033040ba
+Filename: pool/main/n/neo-fft3d/dualsynth-neo-fft3d-yuuki_0.10+buster1_amd64.deb
+Size: 102228
+SHA256: 3d2bc7f92807a4c5a97859ea8380b2f2b62a91f3bc033ff181e706f7a870841b
+SHA1: 85265a622853fd767d97316f0269badbd93c9c71
+MD5sum: 97f6d0eda4a4712196541fc307f46845
 Description: Plugin for AviSynthPlus and VapourSynth: neo-fft3d
  FFT3D is a 3D Frequency Domain filter - strong denoiser and moderate sharpener.
 
