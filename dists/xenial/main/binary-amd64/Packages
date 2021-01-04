@@ -219,20 +219,20 @@ Description: frameserver for the 21st century - development files
     one format or frame size VapourSynth can handle any kind of change
 
 Package: x265-asuna
-Version: 3.3.0+5+30+buster1
+Version: 3.4.0+13+38-1+buster1
 Architecture: amd64
 Bugs: https://github.com/yuuki-deb/x265-yuuki/issues
 Maintainer: Xinyue Lu <i@7086.in>
-Installed-Size: 15928
+Installed-Size: 16000
 Depends: libc6 (>= 2.15), liblsmash2-yuuki (>= 2.16.1), libnuma1 (>= 2.0.11), libstdc++6 (>= 5.2)
 Homepage: https://github.com/msg7086/x265-Yuuki-Asuna
 Priority: optional
 Section: video
-Filename: pool/main/x/x265-asuna/x265-asuna_3.3.0+5+30+buster1_amd64.deb
-Size: 1203228
-SHA256: 89f37def81091e8dd27c281959bfd76547e52ff915c7772c91e2a3cc67f8f839
-SHA1: 24fda1353d2f906a6b2cbd321576f78a81f80e72
-MD5sum: ed03b8763630a1684e710a873aedd38b
+Filename: pool/main/x/x265-asuna/x265-asuna_3.4.0+13+38-1+buster1_amd64.deb
+Size: 1227264
+SHA256: c000600bb35402bdab0590954fa2f37e1b71b50db4375896c3a5ef72ca45d231
+SHA1: 79ce794c1776ce485fce09664a2ce8130f2dc5e0
+MD5sum: 3acdb4b1c2287dc62339adfa1ab02b04
 Description: H.265/HEVC video stream encoder
  x265 is a commandline encoder for creating H.265/High Efficiency Video Coding
  (HEVC) video streams.
