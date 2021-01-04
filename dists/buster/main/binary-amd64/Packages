@@ -1,3 +1,25 @@
+Package: avisynth-tivtc-yuuki
+Source: tivtc
+Version: 1.20201214+buster1
+Architecture: amd64
+Bugs: https://github.com/pinterf/TIVTC/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 1162
+Depends: libc6 (>= 2.16), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Conflicts: avisynth-tivtc
+Provides: avisynth-tivtc
+Multi-Arch: same
+Homepage: https://github.com/pinterf/TIVTC
+Priority: optional
+Section: libs
+Filename: pool/main/t/tivtc/avisynth-tivtc-yuuki_1.20201214+buster1_amd64.deb
+Size: 310660
+SHA256: 605f3e927e5c8c7ed6b9bda57f2f73f433bfe3ee8afc0d36c29f2030934f646e
+SHA1: 8a6eae39256cf5766eda7c0357e06fc7b6b7ace1
+MD5sum: b78c5ccf1e8bedd279034abc9f1fef38
+Description: Plugin for AviSynthPlus: TIVTC and TDeint
+ TIVTC is an IVTC filter. TDeint is an deinterlace filter.
+
 Package: avisynthplus-yuuki
 Source: avisynthplus
 Version: 3.6.1-1+buster1
