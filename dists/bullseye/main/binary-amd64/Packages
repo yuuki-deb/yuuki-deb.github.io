@@ -64,23 +64,23 @@ Description: AviSynth+ frameserver - development files
 
 Package: dualsynth-lsmashsource-yuuki
 Source: lsmashsource
-Version: 0.1036~20200322-1+bullseye1
+Version: 0.1129~20230815-1+bullseye1
 Architecture: amd64
 Bugs: https://github.com/yuuki-deb/lsmashsource-yuuki/issues
 Maintainer: Xinyue Lu <i@7086.in>
 Installed-Size: 240
-Depends: libavcodec58 (>= 10:4.4), libavformat58 (>= 10:4.4), libavutil56 (>= 10:4.4), libc6 (>= 2.14), libgcc-s1 (>= 3.0), liblsmash2 (>= 2.14.5), libstdc++6 (>= 5), libswresample3 (>= 10:4.4), libswscale5 (>= 10:4.4)
+Depends: libavcodec58 (>= 10:4.4.4), libavformat58 (>= 10:4.4.4), libavutil56 (>= 10:4.4.4), libc6 (>= 2.14), libgcc-s1 (>= 3.0), liblsmash2 (>= 2.14.5), libstdc++6 (>= 5), libswresample3 (>= 10:4.4.4), libswscale5 (>= 10:4.4.4)
 Conflicts: dualsynth-lsmashsource, lsmashsource
 Provides: dualsynth-lsmashsource, lsmashsource
 Multi-Arch: same
 Homepage: https://github.com/HomeOfAviSynthPlusEvolution/L-SMASH-Works
 Priority: optional
 Section: libs
-Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki_0.1036~20200322-1+bullseye1_amd64.deb
-Size: 83308
-SHA256: b31492c6deeb5aca945390025f40faca4a76715bcccaa2cc83846068acec2ea1
-SHA1: 12cbbd80d21eee97c9b157aea4c2862461edc387
-MD5sum: 073380c0d218e170be16af5da0975d2e
+Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki_0.1129~20230815-1+bullseye1_amd64.deb
+Size: 84004
+SHA256: e4c242ab3c642826b20da60aa78f582bb9d34dede9823027971cfede9476636e
+SHA1: 6d28eb7fb235b99d015b4d993c02db3393c68911
+MD5sum: 4906afd8d678207e6c26d896dde5cb82
 Description: Plugin for AviSynthPlus and VapourSynth: lsmashsource
  A source plugin for AviSynth+ and VapourSynth.
 
