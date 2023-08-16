@@ -72,3 +72,42 @@ Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
  .
  This package contains runtime files.
 
+Package: x265-asuna
+Version: 3.4.0+13+48-1+bookworm1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/x265-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 16200
+Depends: libc6 (>= 2.34), liblsmash2-yuuki (>= 2.16.1), libnuma1 (>= 2.0.11), libstdc++6 (>= 11)
+Homepage: https://github.com/msg7086/x265-Yuuki-Asuna
+Priority: optional
+Section: video
+Filename: pool/main/x/x265-asuna/x265-asuna_3.4.0+13+48-1+bookworm1_amd64.deb
+Size: 1291028
+SHA256: 09d1f8d6a24301ad79121d70c53bef580a01f8873969b059768907f03e3fe245
+SHA1: 184ed405ba789523cffcf6dc33a5c49406031174
+MD5sum: 77ba78727b26011d419feeda7d2e4c7e
+Description: H.265/HEVC video stream encoder
+ x265 is a commandline encoder for creating H.265/High Efficiency Video Coding
+ (HEVC) video streams.
+ .
+ x265 supports the following features:
+  * full prediction and transform quad-tree recursion supported
+  * adaptive B-frame placement
+  * B-frames as references / arbitrary frame order
+  * CABAC (context-based adaptive binary arithmetic coding) entropy coding
+  * supports all Intra block types
+  * supports all Inter P partitions
+  * supports all Inter B partitions from 64x64 down to 8x4
+  * weighted prediction for P slices
+  * multiple reference frames
+  * scenecut detection
+  * parallel encoding on multiple CPUs
+ .
+ Additionally, x265-asuna supports the following features:
+  * AviSynth+ input
+  * MP4 output from L-Smash
+  * GOP output
+ .
+ x265-asuna is one minor version behind x265-yuuki.
+
