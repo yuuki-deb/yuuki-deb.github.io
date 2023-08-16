@@ -1,0 +1,4 @@
+Component: main
+Origin: yuuki-deb.x86.men
+Architecture: amd64
+Description: AviSynth+ and x265 Yuuki Debian Repository

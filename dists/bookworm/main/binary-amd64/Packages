@@ -1,0 +1,74 @@
+Package: l-smash-yuuki
+Source: l-smash
+Version: 2.16.1-1~20190805+bookworm1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 138
+Depends: libc6 (>= 2.34), liblsmash2-yuuki (>= 2.16.1)
+Conflicts: l-smash
+Provides: l-smash
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: utils
+Filename: pool/main/l/l-smash/l-smash-yuuki_2.16.1-1~20190805+bookworm1_amd64.deb
+Size: 34048
+SHA256: fc20132f412aab60755a4d04ad77cf90f2eb93c410fa6d03d27c1ecdf5e2d650
+SHA1: cbec225649ba2a3ca6b71c29d9c670f7f66645d7
+MD5sum: 6fb70e052fc83471f43f14e3fd8beeeb
+Description: MP4 muxer and other tools
+ This package contains various utilities :
+ .
+  o boxdumper - structural analyzer.
+  o muxer - multiplexer.
+  o remuxer - re-muliplexer.
+  o timelineeditor - timeline editor.
+
+Package: liblsmash-yuuki-dev
+Source: l-smash
+Version: 2.16.1-1~20190805+bookworm1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 1360
+Depends: liblsmash2-yuuki (= 2.16.1-1~20190805+bookworm1)
+Conflicts: liblsmash-dev
+Provides: liblsmash-dev
+Multi-Arch: same
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: libdevel
+Filename: pool/main/l/l-smash/liblsmash-yuuki-dev_2.16.1-1~20190805+bookworm1_amd64.deb
+Size: 255728
+SHA256: a6c8136b05649942f9c9da5c4799f99a6f6b44496a8b3e0e91305c995cb1f0ab
+SHA1: e968564f242c2ceb6f5e8c3c1d54e3559daf3da6
+MD5sum: 1f1d16a23f5fb849231aa570098f6edb
+Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork - development files
+ Yet another opensource mp4 handler
+ .
+ This package contains development files.
+
+Package: liblsmash2-yuuki
+Source: l-smash
+Version: 2.16.1-1~20190805+bookworm1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 598
+Depends: libc6 (>= 2.7)
+Conflicts: liblsmash2
+Provides: liblsmash2
+Multi-Arch: same
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: libs
+Filename: pool/main/l/l-smash/liblsmash2-yuuki_2.16.1-1~20190805+bookworm1_amd64.deb
+Size: 198664
+SHA256: 4b34426035fc031808bdce0e48e601fc38d73e159d8a11ee506ecc55e021af33
+SHA1: c2aea60224f431e56d8fa444db0b26f221968d99
+MD5sum: 1e0fdb6ee4069aae2e9bbca00d88af63
+Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
+ Yet another opensource mp4 handler.
+ .
+ This package contains runtime files.
+

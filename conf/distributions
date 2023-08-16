@@ -20,6 +20,13 @@ Description: AviSynth+ and x265 Yuuki Debian Repository
 SignWith: ABCDEEA3
 
 Origin: yuuki-deb.x86.men
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+SignWith: ABCDEEA3
+
+Origin: yuuki-deb.x86.men
 Codename: xenial
 Architectures: amd64
 Components: main
