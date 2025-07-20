@@ -1,3 +1,77 @@
+Package: l-smash-yuuki
+Source: l-smash
+Version: 2.20.0-1~20250705+trixie1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 146
+Depends: libc6 (>= 2.34), liblsmash2-yuuki (>= 2.20.0)
+Conflicts: l-smash
+Provides: l-smash
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: utils
+Filename: pool/main/l/l-smash/l-smash-yuuki_2.20.0-1~20250705+trixie1_amd64.deb
+Size: 35604
+SHA256: 6cb558a23a90ff9ba76c253a68c048fdd6ecbb31b82c7ff8bc13d074c999be0e
+SHA1: ad8616ca94654848c35b11f2d7d27f55c144b65b
+MD5sum: 080469cb68a244a1bb6a4076d6d30490
+Description: MP4 muxer and other tools
+ This package contains various utilities :
+ .
+  o boxdumper - structural analyzer.
+  o muxer - multiplexer.
+  o remuxer - re-muliplexer.
+  o timelineeditor - timeline editor.
+
+Package: liblsmash-yuuki-dev
+Source: l-smash
+Version: 2.20.0-1~20250705+trixie1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 1475
+Depends: liblsmash2-yuuki (= 2.20.0-1~20250705+trixie1)
+Conflicts: liblsmash-dev
+Provides: liblsmash-dev
+Multi-Arch: same
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: libdevel
+Filename: pool/main/l/l-smash/liblsmash-yuuki-dev_2.20.0-1~20250705+trixie1_amd64.deb
+Size: 271028
+SHA256: 4482bb765dc72b67ec3020a40720975ccba1e7467989d3105754767d593f45ef
+SHA1: e2d969a9dea359cd4b05f46b3e05ac30f7ba1861
+MD5sum: 6d5736ee9e2fd011a07086cf9ca2b4b5
+Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork - development files
+ Yet another opensource mp4 handler
+ .
+ This package contains development files.
+
+Package: liblsmash2-yuuki
+Source: l-smash
+Version: 2.20.0-1~20250705+trixie1
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmash-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 646
+Depends: libc6 (>= 2.7), libobuparse (>= 1.0.0)
+Conflicts: liblsmash2
+Provides: liblsmash2
+Multi-Arch: same
+Homepage: https://github.com/l-smash/l-smash
+Priority: optional
+Section: libs
+Filename: pool/main/l/l-smash/liblsmash2-yuuki_2.20.0-1~20250705+trixie1_amd64.deb
+Size: 209804
+SHA256: 82fb4bb1657d2f85a65a09e4b41817102e740e240b2964d722c709420cb63742
+SHA1: db9c799435407f0a5d5b02379cc5daee4d5fa564
+MD5sum: 4757ae5c79a344f92952742f21bdb770
+Description: Loyal to Spec of Mpeg4 and Ad-hoc Simple Hackwork
+ Yet another opensource mp4 handler.
+ .
+ This package contains runtime files.
+
 Package: libobuparse
 Source: obuparse
 Version: 1.0.0-1~20250608+trixie1
