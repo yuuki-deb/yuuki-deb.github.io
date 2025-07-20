@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: xenial
-Date: Wed, 16 Aug 2023 08:49:48 UTC
+Date: Sun, 20 Jul 2025 23:21:04 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyNrAAKCRAfMxUzq83u
-o0vPAQCmvHbZAF4ezMnLxG4bQCYbK0v8QCBzwPl9scSaPQPluQD/ZMFruYaHvHEj
-jACPtbsYNodP24h/0eo6uF8yV5jdtAA=
-=ZJrv
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH154QAKCRAfMxUzq83u
+o5bSAP0UNZ9Wwafeg6cXW8TtKwhf2e0l0em+Oa9Y8AwVLj6ETgD/UwXAXOP7ksnt
+3YPXclpgHzK+U2rLQ9jRahmyh2dfXAQ=
+=qDgN
 -----END PGP SIGNATURE-----

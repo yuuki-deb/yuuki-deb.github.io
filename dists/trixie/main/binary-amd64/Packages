@@ -1,0 +1,36 @@
+Package: libobuparse
+Source: obuparse
+Version: 1.0.0-1~20250608+trixie1
+Architecture: amd64
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 83
+Depends: libc6 (>= 2.3.4)
+Multi-Arch: same
+Homepage: https://github.com/dwbuiten/obuparse
+Priority: optional
+Section: libs
+Filename: pool/main/o/obuparse/libobuparse_1.0.0-1~20250608+trixie1_amd64.deb
+Size: 28556
+SHA256: 513aff55c9152250370a65e293e885ba3c0bcf6fe44b0b71a733745726e20f06
+SHA1: 986fe33b37f3e59e45d6bf62c79aa3da099594f4
+MD5sum: e1fb526f5fea424809cab766e068524c
+Description: A simple and portable single file AV1 OBU parser written in mostly C89 with a tiny bit of C99, with a permissive license.
+
+Package: libobuparse-dev
+Source: obuparse
+Version: 1.0.0-1~20250608+trixie1
+Architecture: amd64
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 31
+Depends: libobuparse (= 1.0.0-1~20250608+trixie1)
+Multi-Arch: same
+Homepage: https://github.com/dwbuiten/obuparse
+Priority: optional
+Section: libdevel
+Filename: pool/main/o/obuparse/libobuparse-dev_1.0.0-1~20250608+trixie1_amd64.deb
+Size: 6936
+SHA256: 2adb8abca02829740ceb3b47de06b3a2b527fa51a2051db0c43e018c5c22c619
+SHA1: 03366f4dc0920e35f9920d4acd1dd937335c9a50
+MD5sum: 4fd98279bdaf8b83a1b0105dc8cdebe9
+Description: A simple and portable single file AV1 OBU parser written in mostly C89 with a tiny bit of C99, with a permissive license.
+

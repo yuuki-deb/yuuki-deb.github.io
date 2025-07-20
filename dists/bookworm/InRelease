@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: bookworm
-Date: Wed, 16 Aug 2023 09:42:49 UTC
+Date: Sun, 20 Jul 2025 23:21:03 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyaHAAKCRAfMxUzq83u
-oy0sAP4x9tz2XhjqLlmuEglmxFe6Mys+/kMtUg+B2KniLxo0SAD9F8XVwEMEPbVs
-8/aIRnHTiUTwmUWovHIuP4EB0Es4Aw8=
-=FaV1
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH153wAKCRAfMxUzq83u
+ozIeAP0QDpprprKVHtt8Nc6JYYCD6c/rePfSQnKGgVvCELFvmgD+IkUe/SAmSffH
+K5egFZ/jw5EALxqhz0JmTleMmqtLfw4=
+=XDB0
 -----END PGP SIGNATURE-----

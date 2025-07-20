@@ -1,0 +1,18 @@
+Origin: yuuki-deb.x86.men
+Codename: trixie
+Date: Sun, 20 Jul 2025 23:49:51 UTC
+Architectures: amd64
+Components: main
+Description: AviSynth+ and x265 Yuuki Debian Repository
+MD5Sum:
+ 3b0266d07cc5b3ff2e23f48339b46d66 1345 main/binary-amd64/Packages
+ ecdd8c2711f2b7df20bcc5e7eedf49df 609 main/binary-amd64/Packages.gz
+ 21bdbe6d82e9ea233b9e8aca96d70d14 118 main/binary-amd64/Release
+SHA1:
+ 09ec75135c94d64b1d9583cc14af352daca04695 1345 main/binary-amd64/Packages
+ 6803c62a7e7b3283466ab7f652aa6cf590ba087a 609 main/binary-amd64/Packages.gz
+ fd489733ca3a04315c6778a98553992a07b8322f 118 main/binary-amd64/Release
+SHA256:
+ 9e6f176014ab8e8be236f131eb9d8d75df45138a29a08fb1f09326b0f3db6846 1345 main/binary-amd64/Packages
+ 20cf9d75004c838e15317ff6a4fd10a121e18ebc3fff317a1ad9fda7cbbc2697 609 main/binary-amd64/Packages.gz
+ 622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release

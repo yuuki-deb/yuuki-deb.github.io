@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: stretch
-Date: Wed, 16 Aug 2023 08:49:43 UTC
+Date: Sun, 20 Jul 2025 23:20:58 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyNqQAKCRAfMxUzq83u
-o+u+APwOsFRCnSX/fRA18/hSvlYRgU/QkxZJ3u36cjhH8ymU7AEAkWsgkO6OOlqW
-MDC6y33eIhcsom5/erOC1Yb4+xKnCgw=
-=zA55
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH153QAKCRAfMxUzq83u
+oxyaAP9lNgUAmaYC0a3EN2PpKS8UYJ3hreBTbtwqbHxIOHWTiQD/RtajVY2Y42zw
+eTIp6dFogQQ1ngQo816u9eLdbRFZjwQ=
+=+JmE
 -----END PGP SIGNATURE-----

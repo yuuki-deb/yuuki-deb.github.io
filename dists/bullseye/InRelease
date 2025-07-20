@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: bullseye
-Date: Wed, 16 Aug 2023 09:42:52 UTC
+Date: Sun, 20 Jul 2025 23:21:02 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyaHQAKCRAfMxUzq83u
-o/z9APwOoKj1u2wo17FejMHCNRAdLEOXIGV0W9MeDOHi+IZp6QEAl5S5RXMTDexJ
-5xe5dfxkuiwM1P2QvTxbWti1MFqQiws=
-=2dWX
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH153gAKCRAfMxUzq83u
+ow8cAQDvYe5duqzW2GI169GggxHNtaIYLYp/eLBbAkrc8nlSPQEAsytplsjqfwtn
+KGG4O3qNhd0oPi2ZjJ2vul9kFEFyuAU=
+=leKk
 -----END PGP SIGNATURE-----

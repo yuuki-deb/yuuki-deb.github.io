@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: bionic
-Date: Wed, 16 Aug 2023 08:49:48 UTC
+Date: Sun, 20 Jul 2025 23:21:05 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyNrQAKCRAfMxUzq83u
-o2w/AP4iF/7vGIeE4Vzl8u4e1eP0kP5vEhKjTan4zQ+KMV50egEAhD/stDoxaxgP
-yiVc6Pua61Unzwt+Co8aAQHpLYYLgQk=
-=m8xQ
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH154gAKCRAfMxUzq83u
+owhOAQCX0XSt3ekHzU4BUTB0zHhWeWj+RDEnOY5xSg0vGw4kOgD+PKhAGmfWFP9d
+3Yj835t++7WpW9WNZP106GJ5unsGYgs=
+=0V6g
 -----END PGP SIGNATURE-----

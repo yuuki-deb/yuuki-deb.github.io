@@ -1,9 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: yuuki-deb.x86.men
 Codename: focal
-Date: Wed, 16 Aug 2023 08:49:49 UTC
+Date: Sun, 20 Jul 2025 23:21:06 UTC
 Architectures: amd64
 Components: main
 Description: AviSynth+ and x265 Yuuki Debian Repository
@@ -21,8 +21,8 @@ SHA256:
  622250724a05c8f7439e140b5a4e85ecf419003560f873a6a4f298fa2b98632b 118 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCZNyNrQAKCRAfMxUzq83u
-o9ncAP0Vqq6LJc4XO22UE8Ru4+kmJmSOd8KnJ/IJs+Rgx7zZCgEA0MPO3/6QOkFl
-uSiqPM7GpoZDHRrsjlrNgSmvhvXXuAI=
-=mQAn
+iHUEARYKAB0WIQSpu6MRUjWa4ICh34UfMxUzq83uowUCaH154wAKCRAfMxUzq83u
+ox3CAQDb+dpZVZoYCQnL9SNH24DImAgEXMMxRfWhpLnJCwmLggD/YsG5qcOKTTam
+tQt/5b8Z17BLzqrEns8LZ6mgCK+4lAA=
+=Co1M
 -----END PGP SIGNATURE-----
