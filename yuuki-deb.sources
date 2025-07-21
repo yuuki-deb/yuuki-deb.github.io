@@ -1,0 +1,6 @@
+Types: deb
+URIs: http://yuuki-deb.x86.men/
+Suites: trixie
+Components: main
+Signed-By: /usr/share/keyrings/yuuki-deb.gpg
+Enabled: yes
