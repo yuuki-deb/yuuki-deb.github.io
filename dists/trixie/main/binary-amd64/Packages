@@ -1,6 +1,6 @@
 Package: dualsynth-lsmashsource-yuuki
 Source: lsmashsource
-Version: 0.1266~20250706-1+trixie1
+Version: 0.1266~20250706-2+trixie1
 Architecture: amd64
 Bugs: https://github.com/yuuki-deb/lsmashsource-yuuki/issues
 Maintainer: Xinyue Lu <i@7086.in>
@@ -12,13 +12,33 @@ Multi-Arch: same
 Homepage: https://github.com/HomeOfAviSynthPlusEvolution/L-SMASH-Works
 Priority: optional
 Section: libs
-Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki_0.1266~20250706-1+trixie1_amd64.deb
-Size: 372520
-SHA256: 6673649b707d55e2e347c88e75b3068a987e978f2500e13a21fcd61b39583fe0
-SHA1: c1a62ff2f6f340158fe4dfb343aeb71e0a26b7a9
-MD5sum: 4bc2e8d598aa89059e197902c5b75fb2
+Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki_0.1266~20250706-2+trixie1_amd64.deb
+Size: 372612
+SHA256: 835f46d21e1c292f129448f72eae9864ffbc2a40bca154f99dac3331d9cf5e8e
+SHA1: e9a1b79f98b9239726040ca0a548e7e3f397d600
+MD5sum: 93c425a5eb99a1ab22e43fbce3568035
 Description: Plugin for AviSynthPlus and VapourSynth: lsmashsource
  A source plugin for AviSynth+ and VapourSynth.
+
+Package: dualsynth-lsmashsource-yuuki-dbgsym
+Source: lsmashsource
+Version: 0.1266~20250706-2+trixie1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Bugs: https://github.com/yuuki-deb/lsmashsource-yuuki/issues
+Maintainer: Xinyue Lu <i@7086.in>
+Installed-Size: 1499
+Depends: dualsynth-lsmashsource-yuuki (= 0.1266~20250706-2+trixie1)
+Multi-Arch: same
+Priority: optional
+Section: debug
+Filename: pool/main/l/lsmashsource/dualsynth-lsmashsource-yuuki-dbgsym_0.1266~20250706-2+trixie1_amd64.deb
+Size: 1403432
+SHA256: f2c144a999d3035b393538d9bce1359172106470d2d3da8daccf96e059c7dcce
+SHA1: d6e4e18464f19774b6f871d0ef8adee17eac5ac2
+MD5sum: 00434d0f6ba951ed79c81a38e2d30b97
+Description: debug symbols for dualsynth-lsmashsource-yuuki
+Build-Ids: d5c2a2ff4f432d7fe86788ce570f6dec8e7b4dc0
 
 Package: l-smash-yuuki
 Source: l-smash
